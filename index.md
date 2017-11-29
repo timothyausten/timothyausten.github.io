@@ -14,10 +14,8 @@ Will You really save money by ordering the extra-large pizza? Find out your pizz
 
 ### Elvis vector animation
 
-Click on [Elvis](http://www.timothyausten.com/elvis) repeatedly and watch hime change into some of your favorite 1960's icons. The page makes use of the Snap.svg javascript library and SVG transitions instead of traditional frame-by-frame animation.
+Click on [Elvis](http://www.timothyausten.com/elvis) repeatedly and watch him change into some of your favorite 1960's icons. The page makes use of the Snap.svg javascript library and SVG transitions, instead of traditional frame-by-frame animation.
 
 ### AngularJS birds ###
-
-An [AngularJS demo]() that showcases some of the more common Finnish birds, and their names in Finnish and English.
 
 A simple [AngularJS demo](https://alligator.io/angular/deploying-angular-app-github-pages/) featuring the names of some birds in Finnish and in English. It is amazing how we overlook such commonplace things such as birds. They swirl around us constantly and we rarely stop to get to know them. Where are they coming from, and where are they going? Where do they all go when it rains? What are their names, even?
