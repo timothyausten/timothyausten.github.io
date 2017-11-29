@@ -18,4 +18,4 @@ Click on [Elvis](http://www.timothyausten.com/elvis) repeatedly and watch him ch
 
 ### AngularJS birds ###
 
-A simple [AngularJS demo](https://app.netlify.com/sites/jolly-kowalevski-71e68a/) featuring the names of some birds in Finnish and in English. It is amazing how we overlook such commonplace things such as birds. They swirl around us constantly and we rarely stop to get to know them. Where are they coming from, and where are they going, and what are their names? Where do they all go when it rains?
+A simple [AngularJS demo](https://jolly-kowalevski-71e68a.netlify.com//) featuring the names of some birds in Finnish and in English. It is amazing how we overlook such commonplace things such as birds. They swirl around us constantly and we rarely stop to get to know them. Where are they coming from, and where are they going, and what are their names? Where do they all go when it rains?
